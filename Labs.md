@@ -70,7 +70,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Bowżyk, Michał
 1. Czerwiński, Mateusz
 1. Człapiński, Bogusław
-1. Grabowski, Marek
+1. Grabowski, Marek [Zadania 1, 2](https://github.com/grabarzstg/Ruby)
 1. Grzesiak, Daniel
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
